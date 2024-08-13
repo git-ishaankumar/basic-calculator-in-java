@@ -1,6 +1,7 @@
 # Hi 👋 I'm Ishaan
 ***
 ### Basic Calculator in Java
+[![YouTube Demonstration](https://img.shields.io/badge/YouTube_Demonstration-YouTube-red)](https://www.youtube.com/channel/UCEClsw5D5nr9-fxn-WHqPmw)<br>
 This is my first command-line application I made in Java. It is a basic 4 function calculator, capable of computing integers and floating point numbers.
 
 + Use the arithmetic operators on the keyboard to choose an operator (+, -, *, /)
